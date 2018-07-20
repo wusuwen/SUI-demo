@@ -1,0 +1,45 @@
+/* .main{
+    width: 500px;
+    height: 300px;
+    border: 1px solid red;
+} */
+.bar {
+      margin: auto;
+      width: 500px;
+      height: 50px; 
+      margin-top:20px;
+      background-color: green;
+       
+}
+.title{
+    margin: auto;
+    font-size: 20px;
+}
+.create-actions {
+    font-size:20px;
+    color: red;
+    margin-left:0px;
+   
+}
+.content{
+    background-color: cadetblue;
+    width: 500px;
+    margin: auto;
+}
+.content-block{
+    width:500px;
+    height: 50px;
+    position: absolute;
+   
+}
+.content-block p{
+    position: absolute;
+    left:0px;
+}
+
+
+
+
+
+
+	
